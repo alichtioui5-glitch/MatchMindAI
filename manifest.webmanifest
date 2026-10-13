@@ -1,0 +1,12 @@
+{
+  "name": "MatchMind AI - تحليل مباريات كرة القدم",
+  "short_name": "MatchMind AI",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#08111f",
+  "theme_color": "#0b1220",
+  "description": "واجهة عربية لتحليل مباريات كرة القدم واحتمالاتها"
+}
